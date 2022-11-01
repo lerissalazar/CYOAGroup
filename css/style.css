@@ -1,3 +1,24 @@
-.Options {
+body {
+    background-color: rgb(251, 251, 153);
+}
+
+.ThreeOp {
     font-size: 30px;
+    font-family: fantasy;
+    color: rgb(90, 9, 122);
+}
+
+.Drive {
+    font-size: 30px;
+} 
+
+.Title {
+    font-family: fantasy;
+    color:rgb(90, 9, 122);
+    text-align: center;
+}
+
+.Play {
+    font-family: fantasy;
+    color:rgb(8, 8, 142);
 }
