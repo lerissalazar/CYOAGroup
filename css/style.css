@@ -15,6 +15,11 @@
     justify-content: center;
 }
 
-.Next {
-    color:blue;
+.StoryFive {
+    color: rgb(148, 12, 163);
+    font-family: ;
+}
+
+.backOne {
+    background-color: rgb(235, 252, 138);
 }
