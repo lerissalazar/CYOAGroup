@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(251, 251, 153);
+    background-color: rgb(241, 241, 148);
 }
 
 .ThreeOp {
@@ -13,12 +13,19 @@ body {
 } 
 
 .Title {
+    font: ;
     font-family: fantasy;
     color:rgb(90, 9, 122);
     text-align: center;
+    border: thick dashed;
 }
 
 .Play {
     font-family: fantasy;
     color:rgb(8, 8, 142);
+}
+
+.PlayPos {
+    display: flex;
+    justify-content: center;
 }
