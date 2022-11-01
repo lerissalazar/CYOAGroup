@@ -1,19 +1,4 @@
-body {
-    background-color: rgb(241, 241, 148);
-}
-
-.ThreeOp {
-    font-size: 30px;
-    font-family: fantasy;
-    color: rgb(90, 9, 122);
-}
-
-.Drive {
-    font-size: 30px;
-} 
-
 .Title {
-    font: ;
     font-family: fantasy;
     color:rgb(90, 9, 122);
     text-align: center;
@@ -28,4 +13,8 @@ body {
 .PlayPos {
     display: flex;
     justify-content: center;
+}
+
+.Next {
+    color:blue;
 }
