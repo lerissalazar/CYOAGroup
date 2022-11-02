@@ -123,13 +123,21 @@ section
 /* end of Isaiah Code*/
 /* marks code */
 .markTitle {
-    color: #071869;
+   color: #0317fc;
     font-size: 11ch;
 }
 .markText {
-    color: #071869;
+    color: #0317fc;
     font-size: x-large;
     text-decoration:solid;
+    background-color: rgb(244, 244, 139);
+    display: inline-block;
+}
+.markbody {
+    background-image: url("../assets/images/honda.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 /* marks code */
 
