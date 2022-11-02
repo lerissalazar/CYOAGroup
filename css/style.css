@@ -23,6 +23,7 @@ body {
     font-family: fantasy;
 }
 
+<<<<<<< HEAD
 .AdvTitle {
     text-align: center;
     color: rgb(8, 8, 142);
@@ -63,3 +64,74 @@ body {
     justify-content: center;
     display: flex;
 }
+=======
+/* Isaiah's classes*/
+
+.IsaiahCenter{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.isaiahhero
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+section
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: start;
+
+}
+.isaiahone {
+    background-color: aquamarine;
+    
+}
+.isaiahtwo{
+    background-color: azure;
+}
+.isaiahthree
+{
+    background-color: antiquewhite;
+}
+.isaiahcontainer
+{
+    scroll-snap-type: y proximity;
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+@keyframes fade-inout {
+    0% {opacity: 1;}
+    100%{opacity: 0;}
+}
+.fade-in-fade-out{
+    animation: fade-inout 1s;
+    font-size: xx-large;
+}
+
+/* end of Isaiah Code*/
+.markTitle {
+    color: #071869;
+    font-size: 11ch;
+}
+.markText {
+    color: #071869;
+    font-size: x-large;
+    text-decoration:solid;
+}
+/* marks code */
+
+>>>>>>> c40883df8cf9d5ddd451c3401e5e28d15a8cf411
