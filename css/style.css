@@ -199,11 +199,20 @@ section
     background-color: rgb(244, 244, 139);
     display: inline-block;
 }
-.markbody {
+.markpage2 {
     background-image: url("../assets/images/honda.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+}
+.markpage3 {
+    background-image: url("../assets/images/towtruck.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.markpage4 {
+    background-image: url("../assets/images/");
 }
 .markUrl {
     color: rgb(244, 244, 139);
