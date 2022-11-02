@@ -22,3 +22,61 @@ body {
     color: rgb(148, 12, 163);
     font-family: ;
 }
+
+/* Isaiah's classes*/
+
+.IsaiahCenter{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.isaiahhero
+{
+    background-image: url("../box.jpg");
+}
+
+section
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: start;
+
+}
+.isaiahone {
+    background-color: aquamarine;
+    
+}
+.isaiahtwo{
+    background-color: azure;
+}
+.isaiahthree
+{
+    background-color: antiquewhite;
+}
+.isaiahcontainer
+{
+    scroll-snap-type: y proximity;
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+@keyframes fade-inout {
+    0% {opacity: 1;}
+    100%{opacity: 0;}
+}
+.fade-in-fade-out{
+    animation: fade-inout 5s;
+    font-size: xx-large;
+}
+
+/* end of Isaiah Code*/
