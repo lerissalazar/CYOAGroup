@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(235, 252, 138);
+}
 .Title {
     font-family: fantasy;
     color:rgb(90, 9, 122);
@@ -18,8 +21,4 @@
 .StoryFive {
     color: rgb(148, 12, 163);
     font-family: ;
-}
-
-.backOne {
-    background-color: rgb(235, 252, 138);
 }
