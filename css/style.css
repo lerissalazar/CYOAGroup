@@ -1,3 +1,5 @@
+/* Lerissa's Code */
+
 body {
     background-color: rgb(244, 244, 139);
 }
@@ -63,6 +65,12 @@ body {
     justify-content: center;
     display: flex;
 }
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
 /* Isaiah's classes*/
 
 .IsaiahCenter{
