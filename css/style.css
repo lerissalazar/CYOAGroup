@@ -187,7 +187,11 @@ section
     background-size: 100% 100%;
 }
 .markUrl {
-    color: #0317fc;
+    color: rgb(244, 244, 139);
+}
+
+.markUrl:visited{
+    color: rgb(244, 244, 139);
 }
 /* marks code */
 
