@@ -69,7 +69,7 @@ body {
 
 .btnCustom {
     color: white;
-    background-color:rgb(8, 8, 142)
+    background-color: rgb(8, 8, 142)
 }
 
 .card-title {
@@ -78,7 +78,7 @@ body {
 }
 
 .card {
-    background-color:plum
+    background-color: plum
 }
 
 .AdvTitle {
@@ -107,17 +107,19 @@ body {
     display: flex;
     justify-content: center;
 }
+
 .WalkBtn {
     display: flex;
     justify-content: end;
-    
+
 }
+
 .DashBtn {
     display: flex;
     justify-content: start;
 }
 
-.test{
+.test {
     justify-content: center;
     display: flex;
 }
@@ -146,16 +148,15 @@ body {
 
 /* Isaiah's classes*/
 
-.isaiahimage
-{
+.isaiahimage {
     border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 7px;
-  width: 350px;
+    border-radius: 6px;
+    padding: 7px;
+    width: 350px;
 }
 
 
-.IsaiahCenter{
+.IsaiahCenter {
     text-align: center;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
@@ -168,14 +169,13 @@ body {
     box-sizing: border-box;
     font-family: sans-serif;
 }
-.isaiahhero
-{
+
+.isaiahhero {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
 }
 
-section
-{
+section {
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -183,29 +183,37 @@ section
     scroll-snap-align: start;
 
 }
+
 .isaiahone {
     background-color: aquamarine;
-    
+
 }
-.isaiahtwo{
+
+.isaiahtwo {
     background-color: azure;
 }
-.isaiahthree
-{
+
+.isaiahthree {
     background-color: antiquewhite;
 }
-.isaiahcontainer
-{
+
+.isaiahcontainer {
     scroll-snap-type: y proximity;
     overflow-y: scroll;
     height: 100vh;
 }
 
 @keyframes fade-inout {
-    0% {opacity: 1;}
-    100%{opacity: 0;}
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
 }
-.fade-in-fade-out{
+
+.fade-in-fade-out {
     animation: fade-inout 1s;
     font-size: xx-large;
 }
@@ -213,37 +221,42 @@ section
 /* end of Isaiah Code*/
 /* marks code */
 .markTitle {
-   color: #0317fc;
+    color: #0317fc;
     font-size: 11ch;
 }
+
 .markText {
     color: #0317fc;
     font-size: x-large;
-    text-decoration:solid;
+    text-decoration: solid;
     background-color: rgb(244, 244, 139);
     display: inline-block;
 }
+
 .markpage2 {
     background-image: url("../assets/images/honda.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+
 .markpage3 {
     background-image: url("../assets/images/towtruck.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+
 .markpage4 {
     background-image: url("../assets/images/");
 }
+
 .markUrl {
     color: rgb(244, 244, 139);
 }
 
-.markUrl:visited{
+.markUrl:visited {
     color: rgb(244, 244, 139);
 }
-/* marks code */
 
+/* marks code */
