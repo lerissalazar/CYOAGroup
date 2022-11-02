@@ -76,7 +76,7 @@ section
     100%{opacity: 0;}
 }
 .fade-in-fade-out{
-    animation: fade-inout 5s;
+    animation: fade-inout 1s;
     font-size: xx-large;
 }
 
