@@ -4,10 +4,28 @@ body {
     background-color: rgb(244, 244, 139);
 }
 
-.Title {
+.ThreeOp {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+}
+
+.ThreeOpPos {
     font-family: fantasy;
+    color: rgb(8, 8, 142);
+}
+
+.Title {
     color: rgb(90, 9, 122);
     text-align: center;
+}
+
+.TitleFont {
+    font-family: fantasy;
+}
+
+.AdvTitleFont {
+    font-family: fantasy;
 }
 
 .Play {
@@ -20,6 +38,10 @@ body {
     font-family: fantasy;
 }
 
+.StartBtn {
+    background-color: rgb(90, 9, 122);
+    font-family: fantasy;
+}
 .StoryFive {
     color: rgb(148, 12, 163);
     font-family: fantasy;
@@ -70,6 +92,23 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.card-text {
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.SelectBtn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-family: fantasy;
+    color: rgb(90, 9, 122);
+}
+
 
 /* Isaiah's classes*/
 
