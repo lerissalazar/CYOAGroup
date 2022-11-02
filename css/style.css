@@ -81,3 +81,14 @@ section
 }
 
 /* end of Isaiah Code*/
+.markTitle {
+    color: #071869;
+    font-size: 11ch;
+}
+.markText {
+    color: #071869;
+    font-size: x-large;
+    text-decoration:solid;
+}
+/* marks code */
+
