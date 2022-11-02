@@ -122,6 +122,15 @@ body {
 
 /* Isaiah's classes*/
 
+.isaiahimage
+{
+    border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 7px;
+  width: 350px;
+}
+
+
 .IsaiahCenter{
     text-align: center;
     font-size: xx-large;
