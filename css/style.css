@@ -47,7 +47,7 @@ body {
     color: rgb(148, 12, 163);
     font-family: fantasy;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .TitleFive {
@@ -55,6 +55,30 @@ body {
     text-align: center;
     font-family: fantasy;
     font-size: 50px;
+}
+
+.NextFive {
+    display: flex;
+    justify-content: center;
+}
+
+.NextBtn {
+    display: flex;
+    justify-content: center;
+}
+
+.btnCustom {
+    color: white;
+    background-color:rgb(8, 8, 142)
+}
+
+.card-title {
+    color: rgb(8, 8, 142);
+    font-family: fantasy;
+}
+
+.card {
+    background-color:plum
 }
 
 .AdvTitle {
@@ -206,7 +230,7 @@ section
     background-size: 100% 100%;
 }
 .markpage3 {
-    background-image: url("../assets/images/towtruck.jpg");
+    background-image: url("../assets/images/towtruck.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
