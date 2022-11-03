@@ -175,10 +175,20 @@ body {
     width: 350px;
 }
 
+@font-face {
+    src: url(../Fonts/zerovelo.ttf);
+    font-family: zer;
+}
+.newfont{
+    text-align: center;
+    font-size: x-large;
+    font-family: zer;
+    font-weight: bolder;
+}
 
 .IsaiahCenter {
     text-align: center;
-    font-size: xx-large;
+    font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
 }
