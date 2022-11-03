@@ -271,11 +271,11 @@ section {
 }
 
 .markUrl {
-    color: rgb(244, 244, 139);
+    color: #0317fc;
 }
 
 .markUrl:visited {
-    color: rgb(244, 244, 139);
+    color: #0317fc;
 }
 
 /* marks code */
