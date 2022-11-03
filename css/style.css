@@ -180,9 +180,11 @@ body {
 }
 .newfont{
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
     font-family: zer;
     font-weight: bolder;
+    color: rgb(90, 9, 122);
+    text-shadow: 2px 2px 5px purple;
 }
 
 .IsaiahCenter {
